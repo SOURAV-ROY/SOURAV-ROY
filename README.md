@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/SOURAV-ROY">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SOURAV-ROY&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SOURAV-ROY&layout=compact&theme=nightowl" />
 </a>
-
 <a href="https://github.com/SOURAV-ROY">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SOURAV-ROY&show_icons=true&theme=blue-green" />
 </a>
