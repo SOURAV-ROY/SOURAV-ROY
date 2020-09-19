@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/SOURAV-ROY">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SOURAV-ROY&show_icons=true&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SOURAV-ROY&show_icons=true&theme=blue-green" />
 </a>
