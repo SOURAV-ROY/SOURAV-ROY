@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# ![](https://komarev.com/ghpvc/?username=sourav-roy&style=flat&label=PROFILE+VIEWS&color=green)
+## Hi 👋, I am [SOURAV ROY](https://github.com/SOURAV-ROY)
 <!--
 **SOURAV-ROY/SOURAV-ROY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
