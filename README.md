@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=SOURAVROY" alt="SOURAV :: Wakatime Stats" /></p>
 -->
 
-Profile Stats              |  Language Contribution
+PROFILE STATS              |  LANGUAGE CONTRIBUTION
 :-------------------------:|:-------------------------:
 ![SOURAV :: Profile Stats](https://github-readme-stats.vercel.app/api?username=SOURAV-ROY&show_icons=true&theme=blue-green) | ![SOURAV :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SOURAV-ROY&langs_count=6&theme=nightowl&layout=compact&hide=html)
