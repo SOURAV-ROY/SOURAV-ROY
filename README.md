@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left">
+<p align="center">
 <a href="mailto:souravwithyou@protonmail.com"><img alt="Email" src="https://img.shields.io/badge/MAIL-souravwithyou@protonmail.com-red?style=for-the-badge&logo=protonmail"></a>
 <a href="https://www.linkedin.com/in/souravroy-cse"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-SOURAV ROY-GREEN?style=for-the-badge&logo=linkedin&logoColor=blue"></a>
 <!--<a href="https://www.npmjs.com/~souravs4v"><img alt="NPM" src="https://img.shields.io/badge/NPM-SOURAV-indigo?style=for-the-badge&logo=npm"></a>-->
