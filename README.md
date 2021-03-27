@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="JAVA" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GiT" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GiTHuB" width="50" height="50"/>
 </p>
 
 <!--
