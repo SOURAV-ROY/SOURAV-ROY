@@ -71,4 +71,4 @@ Here are some ideas to get you started:
 
 PROFILE STATS              |  LANGUAGE CONTRIBUTION
 :-------------------------:|:-------------------------:
-![SOURAV :: Profile Stats](https://github-readme-stats.vercel.app/api?username=SOURAV-ROY&show_icons=true&theme=blue-green) | ![SOURAV :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SOURAV-ROY&langs_count=7&theme=nightowl&layout=compact&hide=html)
+![SOURAV :: Profile Stats](https://github-readme-stats.vercel.app/api?username=SOURAV-ROY&show_icons=true&theme=blue-green) | ![SOURAV :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SOURAV-ROY&langs_count=8&theme=nightowl&layout=compact&hide=html)
