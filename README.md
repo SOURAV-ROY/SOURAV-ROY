@@ -72,3 +72,11 @@ Here are some ideas to get you started:
 PROFILE STATS              |  LANGUAGE CONTRIBUTION
 :-------------------------:|:-------------------------:
 ![SOURAV :: Profile Stats](https://github-readme-stats.vercel.app/api?username=SOURAV-ROY&show_icons=true&theme=blue-green) | ![SOURAV :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SOURAV-ROY&langs_count=8&theme=nightowl&layout=compact&hide=html)
+
+BY REPOSITORY              |  BY COMMIT
+:-------------------------:|:-------------------------:
+![SOURAV :: Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sourav-roy&theme=dracula) | ![SOURAV :: Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sourav-roy&theme=dracula)
+
+<p align="center">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourav-roy&theme=dracula" alt="SOURAV" />
+</p>
