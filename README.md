@@ -77,6 +77,6 @@ PROFILE STATS              |  LANGUAGE CONTRIBUTION
 :-------------------------:|:-------------------------:
 ![SOURAV :: Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sourav-roy&theme=dracula) | ![SOURAV :: Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sourav-roy&theme=dracula)
  -->
-<p align="center">
+<!-- <p align="center">
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourav-roy&theme=dracula" alt="SOURAV" />
-</p>
+</p> -->
