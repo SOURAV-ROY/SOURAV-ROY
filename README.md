@@ -1,4 +1,4 @@
-# ![](https://komarev.com/ghpvc/?username=sourav-roy&style=flat&label=PROFILE+VIEWS&color=green)
+<!-- # ![](https://komarev.com/ghpvc/?username=sourav-roy&style=flat&label=PROFILE+VIEWS&color=green) -->
 ## Hi 👋, I am [SOURAV ROY](https://github.com/SOURAV-ROY)
 <!--
 **SOURAV-ROY/SOURAV-ROY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -82,3 +82,7 @@ PROFILE STATS              |  LANGUAGE CONTRIBUTION
 </p> -->
 
 <img src="https://raw.githubusercontent.com/SOURAV-ROY/SOURAV-ROY/output/github-contribution-grid-snake.svg" />
+
+<p align="center"> 
+  <a href="#" target="blank"><img src="https://komarev.com/ghpvc/?username=sourav-roy&style=flat&label=PROFILE+VIEWS&color=green" alt="SOURAVROY" /></a>
+</p>
