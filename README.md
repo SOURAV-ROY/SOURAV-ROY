@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <a href="https://t.me/sourav_s4v"><img alt="TELEGRAM" src="https://img.shields.io/badge/SOURAV-darkslateblue?style=for-the-badge&logo=telegram"></a>
 <a href="https://twitter.com/SOURAVROY__CSE"><img alt="Twitter" src="https://img.shields.io/badge/SOURAV-darkcyan?style=for-the-badge&logo=twitter"></a>
 <!-- <a href="https://www.instagram.com/souravroy.sou"><img alt="Instagram" src="https://img.shields.io/badge/SOURAV-purple?style=for-the-badge&logo=instagram"></a> -->
-<a href="mailto:souravnode@protonmail.com"><img alt="PM" src="https://img.shields.io/badge/Pm-Mail-blue?style=for-the-badge&logo=protonmail"></a>
+<a href="mailto:souravnode@protonmail.com"><img alt="PM" src="https://img.shields.io/badge/Pm-Mail-mediumpurple?style=for-the-badge&logo=protonmail"></a>
 <!-- <a href="https://twitter.com/SOURAVROY__CSE"><img alt="Twitter" src="https://img.shields.io/badge/SOURAV-black?style=for-the-badge&logo=twitter"></a>
 <a href="https://www.linkedin.com/in/souravroy-cse" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="" width="40" height="40"/></a>
 <a href="mailto:souravroy.nsu@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="" width="40" height="40"/></a>
