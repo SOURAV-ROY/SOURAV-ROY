@@ -16,11 +16,17 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<a href="mailto:souravroy.nsu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/MAIL-souravroy.nsu@gmail.com-red?style=for-the-badge&logo=gmail"></a>
+<!-- <a href="mailto:souravroy.nsu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/MAIL-souravroy.nsu@gmail.com-red?style=for-the-badge&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/souravroy-cse"><img alt="LinkedIn" src="https://img.shields.io/badge/SOURAV ROY-black?style=for-the-badge&logo=linkedin&logoColor=blue"></a>
 <a href="https://t.me/sourav_s4v"><img alt="TELEGRAM" src="https://img.shields.io/badge/SOURAV-brown?style=for-the-badge&logo=telegram"></a>
 <a href="https://twitter.com/SOURAVROY__CSE"><img alt="Twitter" src="https://img.shields.io/badge/SOURAV-black?style=for-the-badge&logo=twitter"></a>
-<a href="mailto:souravnode@protonmail.com"><img alt="PM" src="https://img.shields.io/badge/Pm-Mail-blue?style=for-the-badge&logo=protonmail"></a>
+<a href="mailto:souravnode@protonmail.com"><img alt="PM" src="https://img.shields.io/badge/Pm-Mail-blue?style=for-the-badge&logo=protonmail"></a> -->
+<a href="mailto:souravroy.nsu@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/souravroy-cse" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="" width="40" height="40"/></a>
+<a href="mailto:souravnode@protonmail.com"><img src="https://www.vectorlogo.zone/logos/protonmail/protonmail-icon.svg" alt="" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/souravroy-cse" target="_blank"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="" width="40" height="40"/></a>
+<a href="https://twitter.com/SOURAVROY__CSE" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="" width="40" height="40"/></a>
+<a href="https://www.youtube.com/c/SOURAVROY-CSE" target="_blank"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="" width="40" height="40"/></a>
 </p>
 
 <p align="center"> 
