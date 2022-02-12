@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <a href="mailto:souravroy.nsu@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="" width="40" height="40"/></a>
 <a href="https://www.linkedin.com/in/souravroy-cse" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="" width="40" height="40"/></a>
 <a href="mailto:souravnode@protonmail.com"><img src="https://www.vectorlogo.zone/logos/protonmail/protonmail-icon.svg" alt="" width="40" height="40"/></a>
-<a href="https://www.linkedin.com/in/souravroy-cse" target="_blank"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="" width="40" height="40"/></a>
+<a href="https://t.me/sourav_s4v" target="_blank"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="" width="40" height="40"/></a>
 <a href="https://twitter.com/SOURAVROY__CSE" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="" width="40" height="40"/></a>
 <a href="https://www.youtube.com/c/SOURAVROY-CSE" target="_blank"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="" width="40" height="40"/></a>
 </p>
