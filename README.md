@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+:boom:&emsp;Connect With Me --->>>
 <p align="center">
 <!-- <a href="mailto:souravroy.nsu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/MAIL-souravroy.nsu@gmail.com-red?style=for-the-badge&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/souravroy-cse"><img alt="LinkedIn" src="https://img.shields.io/badge/SOURAV ROY-black?style=for-the-badge&logo=linkedin&logoColor=blue"></a>
