@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="mailto:souravroy.nsu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/MAIL-souravroy.nsu@gmail.com-firebrick?style=for-the-badge&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/souravroy-cse"><img alt="LinkedIn" src="https://img.shields.io/badge/SOURAV ROY-darkslategray?style=for-the-badge&logo=linkedin&logoColor=blue"></a>
-<a href="https://t.me/sourav_s4v"><img alt="TELEGRAM" src="https://img.shields.io/badge/SOURAV-darkslateblue?style=for-the-badge&logo=telegram"></a>
+<a href="https://t.me/sourav_s4v"><img alt="TELEGRAM" src="https://img.shields.io/badge/SOURAV-olive?style=for-the-badge&logo=telegram"></a>
 <a href="https://twitter.com/SOURAVROY__CSE"><img alt="Twitter" src="https://img.shields.io/badge/SOURAV-black?style=for-the-badge&logo=twitter"></a>
 <!-- <a href="https://www.instagram.com/souravroy.sou"><img alt="Instagram" src="https://img.shields.io/badge/SOURAV-purple?style=for-the-badge&logo=instagram"></a> -->
 <a href="mailto:souravnode@protonmail.com"><img alt="PM" src="https://img.shields.io/badge/Pm-Mail-mediumpurple?style=for-the-badge&logo=protonmail"></a>
