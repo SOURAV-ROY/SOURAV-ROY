@@ -104,3 +104,6 @@ PROFILE STATS              |  LANGUAGE CONTRIBUTION
 <p align="center"> 
   <a href="#" target="blank"><img src="https://komarev.com/ghpvc/?username=sourav-roy&style=flat&label=PROFILE+VIEWS&color=green" alt="SOURAVROY" /></a>
 </p>
+
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zc363byblmujx5zov3uin5gkfe&width=900&count=3)
