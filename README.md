@@ -106,4 +106,4 @@ PROFILE STATS              |  LANGUAGE CONTRIBUTION
 </p>
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zc363byblmujx5zov3uin5gkfe&width=900&count=3)
+<!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zc363byblmujx5zov3uin5gkfe&width=900&count=3) -->
