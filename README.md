@@ -98,6 +98,10 @@ PROFILE STATS              |  LANGUAGE CONTRIBUTION
 <!--<img src="https://raw.githubusercontent.com/SOURAV-ROY/SOURAV-ROY/output/github-contribution-grid-snake.svg" />-->
 
 <p align="center"> 
+  <a href="#" target="blank"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourav-roy&theme=radical" alt="SOURAVROY" /></a>
+</p>
+
+<p align="center"> 
   <a href="#" target="_blank"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sourav-roy&theme=react" alt="SOURAVROY" /></a>
 </p>
 
