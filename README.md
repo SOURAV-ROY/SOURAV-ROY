@@ -101,8 +101,12 @@ PROFILE STATS              |  LANGUAGE CONTRIBUTION
   <a href="#" target="blank"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourav-roy&theme=radical" alt="SOURAVROY" /></a>
 </p>
 
-<p align="center"> 
+<!--p align="center"> 
   <a href="#" target="_blank"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sourav-roy&theme=react" alt="SOURAVROY" /></a>
+</p-->
+
+<p align="center"> 
+  <a href="#" target="_blank"><img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sourav-roy&count_private=true&theme=nightowl&border_radius=10" alt="SOURAVROY" /></a>
 </p>
 
 <p align="center"> 
