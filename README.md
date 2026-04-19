@@ -37,21 +37,41 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/c/SOURAVROY-CSE" target="_blank"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="" width="40" height="40"/></a> -->
 </p>
 
-<p align="center"> 
+<!-- <p align="center">  -->
 <!--img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="JAVA" width="30" height="30"/-->
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="ExpressJS" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="FireBase" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="JAVA" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="50" height="50"/>
+<!-- <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="" width="50" height="50"/> -->
+<!-- <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="" width="50" height="50"/> -->
+<!-- <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="ExpressJS" width="50" height="50"/> -->
+<!-- <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="50" height="50"/> -->
+<!-- <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" width="50" height="50"/> -->
+<!-- <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="FireBase" width="50" height="50"/> -->
+<!-- <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="50" height="50"/> -->
+<!-- <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="50" height="50"/> -->
+<!-- <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="50" height="50"/> -->
+<!-- <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="50" height="50"/> -->
+<!-- <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="50" height="50"/> -->
+<!-- <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="JAVA" width="50" height="50"/> -->
+<!-- <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="50" height="50"/> -->
+<!-- </p> -->
+
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="50" height="50"/></td>
+      <td><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="50" height="50"/></td>
+      <td><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="ExpressJS" width="50" height="50"/></td>
+      <td><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="50" height="50"/></td>
+      <td><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" width="50" height="50"/></td>
+      <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="FireBase" width="50" height="50"/></td>
+      <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="50" height="50"/></td>
+      <td><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="50" height="50"/></td>
+      <td><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="50" height="50"/></td>
+      <td><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="50" height="50"/></td>
+      <td><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="50" height="50"/></td>
+      <td><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="JAVA" width="50" height="50"/></td>
+      <td><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="50" height="50"/></td>
+    </tr>
+  </table>
 </p>
 
 <!--
