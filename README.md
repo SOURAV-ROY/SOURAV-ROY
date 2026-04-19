@@ -1,5 +1,7 @@
 <!-- # ![](https://komarev.com/ghpvc/?username=sourav-roy&style=flat&label=PROFILE+VIEWS&color=green) -->
+
 ## Hi 👋, I am [SOURAV ROY](https://github.com/SOURAV-ROY)
+
 <!--
 **SOURAV-ROY/SOURAV-ROY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -53,7 +55,7 @@ Here are some ideas to get you started:
 </p>
 
 <!--
-<p align="center"> 
+<p align="center">
   <a href="#" target="blank"><img src="https://img.shields.io/badge/10-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="SOURAVROY" /></a>
   <a href="#" target="blank"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="SOURAVROY" /></a>
   <a href="#" target="blank"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="SOURAVROY" /></a>
@@ -83,9 +85,9 @@ Here are some ideas to get you started:
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=SOURAVROY" alt="SOURAV :: Wakatime Stats" /></p>
 -->
 
-PROFILE STATS              |  LANGUAGE CONTRIBUTION
-:-------------------------:|:-------------------------:
-![SOURAV :: Profile Stats](https://github-readme-stats.vercel.app/api?username=SOURAV-ROY&show_icons=true&theme=nightowl) | ![SOURAV :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SOURAV-ROY&langs_count=8&theme=nightowl&layout=compact&hide=html)
+|                                                       PROFILE STATS                                                       |                                                                  LANGUAGE CONTRIBUTION                                                                  |
+| :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: |
+| ![SOURAV :: Profile Stats](https://github-readme-stats.vercel.app/api?username=SOURAV-ROY&show_icons=true&theme=nightowl) | ![SOURAV :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SOURAV-ROY&langs_count=8&theme=nightowl&layout=compact&hide=html) |
 
 <!-- BY REPOSITORY              |  BY COMMIT
 :-------------------------:|:-------------------------:
@@ -101,7 +103,7 @@ PROFILE STATS              |  LANGUAGE CONTRIBUTION
   <a href="#" target="blank"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourav-roy&theme=radical" alt="SOURAVROY" /></a>
 </p>
 
-<!--p align="center"> 
+<!--p align="center">
   <a href="#" target="_blank"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sourav-roy&theme=react" alt="SOURAVROY" /></a>
 </p-->
 
@@ -112,6 +114,5 @@ PROFILE STATS              |  LANGUAGE CONTRIBUTION
 <p align="center"> 
   <a href="#" target="blank"><img src="https://komarev.com/ghpvc/?username=sourav-roy&style=flat&label=PROFILE+VIEWS&color=green" alt="SOURAVROY" /></a>
 </p>
-
 
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zc363byblmujx5zov3uin5gkfe&width=900&count=3) -->
