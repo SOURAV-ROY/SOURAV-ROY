@@ -37,24 +37,29 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/c/SOURAVROY-CSE" target="_blank"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="" width="40" height="40"/></a> -->
 </p>
 
-<!-- <p align="center">  -->
-<!--img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="JAVA" width="30" height="30"/-->
-<!-- <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="" width="50" height="50"/> -->
-<!-- <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="" width="50" height="50"/> -->
-<!-- <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="ExpressJS" width="50" height="50"/> -->
-<!-- <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="50" height="50"/> -->
-<!-- <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" width="50" height="50"/> -->
-<!-- <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="FireBase" width="50" height="50"/> -->
-<!-- <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="50" height="50"/> -->
-<!-- <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="50" height="50"/> -->
-<!-- <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="50" height="50"/> -->
-<!-- <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="50" height="50"/> -->
-<!-- <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="50" height="50"/> -->
-<!-- <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="JAVA" width="50" height="50"/> -->
-<!-- <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="50" height="50"/> -->
-<!-- </p> -->
+<p align="center"> 
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="ExpressJS" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="Socket.IO" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="FireBase" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Apache Kafka" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="Amazon AWS" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="JAVA" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Golang" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="50" height="50"/>
+</p>
 
-<p align="center">
+<!-- <p align="center">
   <table>
     <tr>
       <td><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="50" height="50"/></td>
@@ -72,7 +77,7 @@ Here are some ideas to get you started:
       <td><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="50" height="50"/></td>
     </tr>
   </table>
-</p>
+</p> -->
 
 <!--
 <p align="center">
@@ -109,10 +114,14 @@ Here are some ideas to get you started:
 | :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: |
 | ![SOURAV :: Profile Stats](https://github-readme-stats.vercel.app/api?username=SOURAV-ROY&show_icons=true&theme=nightowl) | ![SOURAV :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SOURAV-ROY&langs_count=8&theme=nightowl&layout=compact&hide=html) |
 
-<!-- BY REPOSITORY              |  BY COMMIT
-:-------------------------:|:-------------------------:
-![SOURAV :: Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sourav-roy&theme=dracula) | ![SOURAV :: Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sourav-roy&theme=dracula)
- -->
+<!-- |                                                               BY REPOSITORY                                                                |                                                                BY COMMIT                                                                 |
+| :----------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
+| ![SOURAV :: Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sourav-roy&theme=dracula) | ![SOURAV :: Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sourav-roy&theme=dracula) | -->
+
+<!-- <p align="center">
+  <a href="#" target="_blank"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sourav-roy&theme=dracula" alt="SOURAVROY" /></a>
+</p> -->
+
 <!-- <p align="center">
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourav-roy&theme=dracula" alt="SOURAV" />
 </p> -->
