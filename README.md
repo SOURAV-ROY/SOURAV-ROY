@@ -45,13 +45,13 @@ Here are some ideas to get you started:
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="ExpressJS" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="Socket.IO" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="FireBase" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Apache Kafka" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="Amazon AWS" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="JAVA" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Golang" width="50" height="50"/>
