@@ -118,9 +118,9 @@ Here are some ideas to get you started:
 | :----------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
 | ![SOURAV :: Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sourav-roy&theme=dracula) | ![SOURAV :: Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sourav-roy&theme=dracula) | -->
 
-<!-- <p align="center">
-  <a href="#" target="_blank"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sourav-roy&theme=dracula" alt="SOURAVROY" /></a>
-</p> -->
+<p align="center">
+  <a href="https://souravroy.net" target="_blank"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sourav-roy&theme=radical" alt="SOURAVROY" /></a>
+</p>
 
 <!-- <p align="center">
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourav-roy&theme=dracula" alt="SOURAV" />
@@ -129,7 +129,7 @@ Here are some ideas to get you started:
 <!--<img src="https://raw.githubusercontent.com/SOURAV-ROY/SOURAV-ROY/output/github-contribution-grid-snake.svg" />-->
 
 <p align="center"> 
-  <a href="#" target="blank"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourav-roy&theme=radical" alt="SOURAVROY" /></a>
+  <a href="https://souravroy.net" target="blank"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourav-roy&theme=radical" alt="SOURAVROY" /></a>
 </p>
 
 <!--p align="center">
@@ -137,11 +137,11 @@ Here are some ideas to get you started:
 </p-->
 
 <p align="center"> 
-  <a href="#" target="_blank"><img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sourav-roy&count_private=true&theme=nightowl&border_radius=10" alt="SOURAVROY" /></a>
+  <a href="https://souravroy.net" target="_blank"><img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sourav-roy&count_private=true&theme=nightowl&border_radius=10" alt="SOURAVROY" /></a>
 </p>
 
 <p align="center"> 
-  <a href="#" target="blank"><img src="https://komarev.com/ghpvc/?username=sourav-roy&style=flat&label=PROFILE+VIEWS&color=green" alt="SOURAVROY" /></a>
+  <a href="https://souravroy.net" target="blank"><img src="https://komarev.com/ghpvc/?username=sourav-roy&style=flat&label=PROFILE+VIEWS&color=green" alt="SOURAVROY" /></a>
 </p>
 
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zc363byblmujx5zov3uin5gkfe&width=900&count=3) -->
