@@ -110,9 +110,10 @@ Here are some ideas to get you started:
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=SOURAVROY" alt="SOURAV :: Wakatime Stats" /></p>
 -->
 
- |                                                       PROFILE STATS                                                       |                                                                  LANGUAGE CONTRIBUTION                                                                  |
-| :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                               PROFILE STATS                                                                |                                                                          LANGUAGE CONTRIBUTION                                                                           |
+| :----------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | ![SOURAV :: Profile Stats](https://github-readme-stats.vercel.app/api?username=SOURAV-ROY&show_icons=true&theme=nightowl&hide_border=true) | ![SOURAV :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SOURAV-ROY&langs_count=8&theme=nightowl&layout=compact&hide=html&hide_border=true) |
+
 <!-- https://github-stats-extended.vercel.app/api?username=sourav-roy&show_icons=true&theme=tokyonight&hide_border=true -->
 <!-- |                                                               BY REPOSITORY                                                                |                                                                BY COMMIT                                                                 |
 | :----------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
