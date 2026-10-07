@@ -1,6 +1,19 @@
-<!-- # ![](https://komarev.com/ghpvc/?username=sourav-roy&style=flat&label=PROFILE+VIEWS&color=green) -->
+[//]: # "![Github Banner](https://souravroy.net/SOURAV-ROY.png)"
 
-## Hi 👋, I am [SOURAV ROY](https://github.com/SOURAV-ROY)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;JavaScript+%7C+TypeScript+%7C+Node.js;Building+scalable+applications" alt="Typing animation" />
+</div>
+
+## 👋 About Me
+
+I am **[SOURAV ROY](https://souravroy.net)**, a full stack software developer focused on building scalable, reliable, and user-friendly applications.
+
+- 🔭 Currently exploring and building with modern backend and full-stack technologies.
+- 🌱 Continuously learning new tools, architectures, and development practices.
+- 🤝 Open to collaborating on meaningful projects and technical discussions.
+- 💬 Ask me about JavaScript, TypeScript, Node.js, backend systems, and software engineering.
+
+[//]: # "- 📫 Reach out through the links."
 
 <!--
 **SOURAV-ROY/SOURAV-ROY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,12 +50,14 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/c/SOURAVROY-CSE" target="_blank"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="" width="40" height="40"/></a> -->
 </p>
 
+### 🛠️ Tech Stack
+
 <p align="center"> 
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgresSQL" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="ExpressJS" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="Socket.IO" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="50" height="50"/>
@@ -128,18 +143,17 @@ Here are some ideas to get you started:
 </p> -->
 
 <!--<img src="https://raw.githubusercontent.com/SOURAV-ROY/SOURAV-ROY/output/github-contribution-grid-snake.svg" />-->
+<p align="center"> 
+  <a href="https://souravroy.net" target="_blank"><img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sourav-roy&count_private=true&theme=nightowl&border_radius=10" alt="SOURAVROY" /></a>
+</p>
 
 <p align="center"> 
   <a href="https://souravroy.net" target="blank"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourav-roy&theme=radical" alt="SOURAVROY" /></a>
 </p>
 
-<!--p align="center">
-  <a href="#" target="_blank"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sourav-roy&theme=react" alt="SOURAVROY" /></a>
-</p-->
-
-<p align="center"> 
-  <a href="https://souravroy.net" target="_blank"><img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sourav-roy&count_private=true&theme=nightowl&border_radius=10" alt="SOURAVROY" /></a>
-</p>
+[//]: # '<p align="center">'
+[//]: # '  <a href="#" target="https://souravroy.net"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sourav-roy&theme=react" alt="SOURAVROY" /></a>'
+[//]: # "</p>"
 
 <p align="center"> 
   <a href="https://souravroy.net" target="blank"><img src="https://komarev.com/ghpvc/?username=sourav-roy&style=flat&label=PROFILE+VIEWS&color=green" alt="SOURAVROY" /></a>
