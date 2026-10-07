@@ -110,17 +110,17 @@ Here are some ideas to get you started:
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=SOURAVROY" alt="SOURAV :: Wakatime Stats" /></p>
 -->
 
-<!-- |                                                       PROFILE STATS                                                       |                                                                  LANGUAGE CONTRIBUTION                                                                  |
+ |                                                       PROFILE STATS                                                       |                                                                  LANGUAGE CONTRIBUTION                                                                  |
 | :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: |
-| ![SOURAV :: Profile Stats](https://github-readme-stats.vercel.app/api?username=SOURAV-ROY&show_icons=true&theme=nightowl) | ![SOURAV :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SOURAV-ROY&langs_count=8&theme=nightowl&layout=compact&hide=html) | -->
-
+| ![SOURAV :: Profile Stats](https://github-readme-stats.vercel.app/api?username=SOURAV-ROY&show_icons=true&theme=nightowl&hide_border=true) | ![SOURAV :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SOURAV-ROY&langs_count=8&theme=nightowl&layout=compact&hide=html&hide_border=true) |
+<!-- https://github-stats-extended.vercel.app/api?username=sourav-roy&show_icons=true&theme=tokyonight&hide_border=true -->
 <!-- |                                                               BY REPOSITORY                                                                |                                                                BY COMMIT                                                                 |
 | :----------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
 | ![SOURAV :: Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sourav-roy&theme=dracula) | ![SOURAV :: Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sourav-roy&theme=dracula) | -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://souravroy.net" target="_blank"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sourav-roy&theme=radical" alt="SOURAVROY" /></a>
-</p>
+</p> -->
 
 <!-- <p align="center">
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourav-roy&theme=dracula" alt="SOURAV" />
@@ -129,7 +129,7 @@ Here are some ideas to get you started:
 <!--<img src="https://raw.githubusercontent.com/SOURAV-ROY/SOURAV-ROY/output/github-contribution-grid-snake.svg" />-->
 
 <p align="center"> 
-  <a href="https://souravroy.net" target="blank"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourav-roy&theme=radical" alt="SOURAVROY" /></a>
+  <a href="https://souravroy.net" target="blank"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourav-roy&theme=radical" alt="SOURAVROY" /></a>
 </p>
 
 <!--p align="center">
