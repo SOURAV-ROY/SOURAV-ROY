@@ -6,12 +6,12 @@
 
 ## 👋 About Me
 
-I am **[SOURAV ROY](https://souravroy.net)**, a full stack software developer focused on building scalable, reliable, and user-friendly applications.
+I'm **[Sourav Roy](https://souravroy.net)**, a full-stack developer who builds scalable, reliable, and user-friendly applications. I enjoy solving backend challenges, exploring modern technologies, and turning ideas into practical software.
 
-- 🔭 Currently exploring and building with modern backend and full-stack technologies.
-- 🌱 Continuously learning new tools, architectures, and development practices.
-- 🤝 Open to collaborating on meaningful projects and technical discussions.
-- 💬 Ask me about JavaScript, TypeScript, Node.js, backend systems, and software engineering.
+- 🔭 Building and exploring modern backend and full-stack technologies.
+- 🌱 Always learning new tools, architectures, and engineering practices.
+- 🤝 Open to collaborating on thoughtful projects and sharing ideas.
+- 💬 Ask me about JavaScript, TypeScript, Node.js, backend development, and software engineering.
 
 [//]: # "- 📫 Reach out through the links."
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <!-- [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/SOURAVROY.CSE) -->
 
 <p align="center">
-<a href="mailto:souravroy.nsu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/MAIL-souravroy.nsu@gmail.com-firebrick?style=for-the-badge&logo=gmail"></a>
+<a href="mailto:souravroyscr@gmail.com"><img alt="Email" src="https://img.shields.io/badge/MAIL-souravroyscr@gmail.com-firebrick?style=for-the-badge&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/souravroy-cse"><img alt="LinkedIn" src="https://img.shields.io/badge/SOURAV ROY-darkslategrey?style=for-the-badge&logo=linkedin&logoColor=blue"></a>
 <a href="https://t.me/ROYSOURAV"><img alt="TELEGRAM" src="https://img.shields.io/badge/SOURAV-darkcyan?style=for-the-badge&logo=telegram"></a>
 <a href="https://twitter.com/SOURAVROY__CSE"><img alt="Twitter" src="https://img.shields.io/badge/SOURAV-black?style=for-the-badge&logo=twitter"></a>
@@ -73,52 +73,6 @@ Here are some ideas to get you started:
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="50" height="50"/>
 </p>
-
-<!-- <p align="center">
-  <table>
-    <tr>
-      <td><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="50" height="50"/></td>
-      <td><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="50" height="50"/></td>
-      <td><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="ExpressJS" width="50" height="50"/></td>
-      <td><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="50" height="50"/></td>
-      <td><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" width="50" height="50"/></td>
-      <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="FireBase" width="50" height="50"/></td>
-      <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="50" height="50"/></td>
-      <td><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="50" height="50"/></td>
-      <td><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="50" height="50"/></td>
-      <td><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="50" height="50"/></td>
-      <td><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="50" height="50"/></td>
-      <td><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="JAVA" width="50" height="50"/></td>
-      <td><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="50" height="50"/></td>
-    </tr>
-  </table>
-</p> -->
-
-<!--
-<p align="center">
-  <a href="#" target="blank"><img src="https://img.shields.io/badge/10-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="SOURAVROY" /></a>
-  <a href="#" target="blank"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="SOURAVROY" /></a>
-  <a href="#" target="blank"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="SOURAVROY" /></a>
-  <a href="#" target="blank"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="SOURAVROY" /></a>
-  <a href="#" target="blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="SOURAV" /></a>
-  <a href="#" target="blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="SOURAV" /></a>
-  <a href="#" target="blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="SOURAV" /></a>
-  <a href="#" target="blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="SOURAV" /></a>
-  <a href="#" target="blank"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="SOURAV" /></a>
-  <a href="#" target="blank"><img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="SOURAV" /></a>
-  <a href="#" target="blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="SOURAV" /></a>
-  <a href="#" target="blank"><img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="SOURAV" /></a>
-  <a href="#" target="blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="SOURAV" /></a>
-  <a href="#" target="blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="SOURAV" /></a>
-  <a href="#" target="blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="SOURAV" /></a>
-  <a href="#" target="blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="SOURAV" /></a>
-  <a href="#" target="blank"><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" alt="SOURAV" /></a>
-  <a href="#" target="blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=green" alt="SOURAV" /></a>
-  <a href="#" target="blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="SOURAV" /></a>
-  <a href="#" target="blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="SOURAV" /></a>
-  <a href="#" target="blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="SOURAV" /></a>
-</p>
--->
 
 <!--
 <h4 align="center">Wakatime week stats</h4>
